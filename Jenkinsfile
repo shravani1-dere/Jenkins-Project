@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo  'Building AI Project - Version 2''
+                echo  'Building AI Project - Version 2'
             }
         }
 
